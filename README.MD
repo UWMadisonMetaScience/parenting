@@ -1,4 +1,5 @@
 Gender gap in academic career achievements and the mediating role of work-family conflict and partner support
+Xiang Zheng, Haimiao Yuan, Chaoqun Ni
 
 This repository stores related data and codes for the paper 'Gender gap in academic career achievements and the mediating role of work-family conflict and partner support.'
 
