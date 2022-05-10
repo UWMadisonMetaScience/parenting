@@ -1,7 +1,7 @@
-Gender gap in academic career achievements and the mediating role of work-family conflict and partner support
-Xiang Zheng, Haimiao Yuan, Chaoqun Ni
+#How parenthood contributes to gender gaps in academia
+by Xiang Zheng, Haimiao Yuan, Chaoqun Ni
 
-This repository stores related data and codes for the paper 'Gender gap in academic career achievements and the mediating role of work-family conflict and partner support.'
+This repository stores related data and codes for the paper _'How parenthood contributes to gender gaps in academia'
 
 File data.xlsx contains the anonymized respondents' records supporting the paper's analysis.
 
