@@ -2,7 +2,7 @@
 * by Xiang Zheng, Haimiao Yuan, Chaoqun Ni
 * URL: https://elifesciences.org/articles/78909
 
-This repository stores related data and codes for the paper _'How parenthood contributes to gender gaps in academia'
+This repository stores related data and codes for the paper _'How parenthood contributes to gender gaps in academia' 
 
 File data.xlsx contains the anonymized respondents' records supporting the paper's analysis.
 
