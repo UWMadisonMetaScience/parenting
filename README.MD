@@ -2,11 +2,11 @@
 * by Xiang Zheng, Haimiao Yuan, Chaoqun Ni
 * URL: https://elifesciences.org/articles/78909
 
-This repository stores related data and codes for the paper _'How parenthood contributes to gender gaps in academia' 
+This repository stores related data and codes for the paper _'How parenthood contributes to gender gaps in academia'.
 
-File data.xlsx contains the anonymized respondents' records supporting the paper's analysis.
+File **data.xlsx** contains the anonymized respondents' records supporting the paper's analysis.
 
-File reg.do contains the STATA codes that we used to run regression and mediation effect analysis.
+File **reg.do** contains the STATA codes that we used to run regression and mediation effect analysis.
 
-File table & graph.ipynb contains the Python codes that we used to generate tables and graphs.
+File **table & graph.**ipynb contains the Python codes that we used to generate tables and graphs.
 
