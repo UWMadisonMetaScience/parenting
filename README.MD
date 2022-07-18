@@ -1,5 +1,6 @@
 # How parenthood contributes to gender gaps in academia
-* * by Xiang Zheng, Haimiao Yuan, Chaoqun Ni
+*URL: https://elifesciences.org/articles/78909
+* by Xiang Zheng, Haimiao Yuan, Chaoqun Ni
 
 This repository stores related data and codes for the paper _'How parenthood contributes to gender gaps in academia'
 
