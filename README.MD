@@ -8,5 +8,5 @@ File **data.xlsx** contains the anonymized respondents' records supporting the p
 
 File **reg.do** contains the STATA codes that we used to run regression and mediation effect analysis.
 
-File **table & graph.**ipynb contains the Python codes that we used to generate tables and graphs.
+File **table & graph.ipynb** contains the Python codes that we used to generate tables and graphs.
 
